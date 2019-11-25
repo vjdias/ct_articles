@@ -1,0 +1,78 @@
+[ {
+    "id": 0,
+    "title": "Google Stadia não consegue entregar 4K e está superaquecendo Chromecast Ultra",
+    "link": "https://adrenaline.uol.com.br/noticias/v/61531/google-stadia-nao-consegue-entregar-4k-e-esta-superaquecendo-chromecast-ultra",
+    "pubDate": "Sat, 23 Nov 2019 23:07:21",
+    "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author":"Rem, Lo ",
+    "img":"./assets/imgs/logo.png",
+    "favorite":false,
+    "delete":false
+  },
+  {
+    "id": 1,
+    "title": "NVIDIA lança oficialmente GeForce GTX 1650 SUPER, nova placa de vídeo de entrada por U$159",
+    "link": "https://adrenaline.uol.com.br/noticias/v/61526/nvidia-lanca-oficialmente-geforce-gtx-1650-super-nova-placa-de-video-de-entrada-por-u159",
+    "pubDate": "Sat, 23 Nov 2019 14:15:18",
+    "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author":"Rem, Lo ",
+    "img":"./assets/imgs/logo.png",
+    "favorite":false,
+    "delete":false
+  },
+  {
+    "id": 2,
+    "title": "PlayStation 5 chega dia 20 de novembro pelo preço de U$500, aponta rumor",
+    "link": "https://adrenaline.uol.com.br/noticias/v/61533/custo-de-desenvolvimento-de-cyberpunk-2077-ja-ultrapassa-os-us-80-milhoes",
+    "pubDate": "Wed, 20 Nov 2019 08:18:52",
+    "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author":"Rem, Lo ",
+    "img":"./assets/imgs/logo.png",
+    "favorite":false,
+    "delete":false
+  },
+  {
+    "id": 3,
+    "title": "ATHLON NOS ESTERÓIDES! Overclockamos o 3000G para ver até onde ele consegue ir",
+    "link": "https://adrenaline.uol.com.br/videos/v/61440/athlon-nos-esteroides-overclockamos-o-3000g-para-ver-ate-onde-ele-consegue-ir",
+    "pubDate": "Tue, 19 Nov 2019 20:00:00",
+    "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author":"Rem, Lo ",
+    "img":"./assets/imgs/logo.png",
+    "favorite":false,
+    "delete":false
+  },
+  {
+    "id": 4,
+    "title": "NVIDIA deverá lançar série RTX SUPER para notebooks em resposta à AMD e Intel",
+    "link": "https://adrenaline.uol.com.br/noticias/v/61472/nvidia-devera-lancar-serie-rtx-super-para-notebooks-em-resposta-a-amd-e-intel",
+    "pubDate": "Tue, 19 Nov 2019 19:23:00",
+    "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author":"Rem, Lo ",
+    "img":"./assets/imgs/logo.png",
+    "favorite":false,
+    "delete":false
+  },
+  {
+    "id": 5,
+    "title": "Studio Driver da Nvidia traz suporte para RTX em renderização V-Ray",
+    "link": "https://adrenaline.uol.com.br/noticias/v/61467/studio-driver-da-nvidia-traz-suporte-para-rtx-em-renderizacao-v-ray",
+    "pubDate": "Tue, 19 Nov 2019 19:06:00",
+    "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author":"Rem, Lo ",
+    "img":"./assets/imgs/logo.png",
+    "favorite":false,
+    "delete":false
+  },
+  {
+    "id": 6,
+    "title": "AMD lança o Athlon 3000G e inicia distribuição às lojas",
+    "link": "https://adrenaline.uol.com.br/noticias/v/61468/amd-lanca-o-athlon-3000g-e-inicia-distribuicao-as-lojas",
+    "pubDate": "Tue, 19 Nov 2019 17:30:00",
+    "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author":"Rem, Lo ",
+    "img":"./assets/imgs/logo.png",
+    "favorite":false,
+    "delete":false
+  }
+]

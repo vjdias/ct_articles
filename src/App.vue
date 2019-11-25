@@ -74,7 +74,7 @@ dt {
 
 media (min-width: 768px)
 .container {
-    max-width: 720px;
+    max-width: 780px;
 }
 
 @media only screen and (max-width: 767px) {
@@ -88,7 +88,7 @@ media (min-width: 768px)
       padding-left: 0;
    }
    .container {
-     max-width: 780px;
+     max-width: 767px;
      text-align: justify;
    }
 }
